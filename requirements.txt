@@ -1,0 +1,6 @@
+rdkit
+scikit-learn
+pandas
+matplotlib
+jupyter
+chembl_webresource_client
