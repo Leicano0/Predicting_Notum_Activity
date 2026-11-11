@@ -7,8 +7,8 @@ show how well it performs on chemical series it has never seen
 
 ## Introduction
 
-Notum is in the Wnt-pathway brake that I have presented on alongside a group.
-Blocking it is a proposed Alzheimer's strategy, so the target is current and its biology well understood
+Notum is in the Wnt-pathway brake that I have presented on in a group project.
+Blocking it is a proposed Alzheimer's strategy, so the target is current and its biology is well understood.
 
 ## The data
 
